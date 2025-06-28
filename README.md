@@ -1,3 +1,4 @@
 # Hello everyone on my GitHub, I'm Nikolai and I'm just a coder
-![99px_ru_wallpaper_27012_sisil_cc_iz_anime_code_geass](https://github.com/user-attachments/assets/78d198b0-7073-4b8e-8bfb-dd822d5d373c)
+![Anime WallpaperZone🔥,  5 Ago 2022 alle 11_59  ≿━━━━༺❀༻━━━━≾ 📓DEATH NOTE✒️ ≿━━━━༺❀༻━━━━≾](https://github.com/user-attachments/assets/6ae1438a-812c-45c6-9737-7b7bc4ec77b0)
+
 
