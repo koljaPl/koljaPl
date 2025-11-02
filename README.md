@@ -1,12 +1,16 @@
-# Hello everyone on my GitHub, I'm Nicklas and I'm just a coder :>
+# 👋 Hello, I'm Nicklas!
 ![Anime WallpaperZone🔥,  5 Ago 2022 alle 11_59  ≿━━━━༺❀༻━━━━≾ 📓DEATH NOTE✒️ ≿━━━━༺❀༻━━━━≾(1)](https://github.com/user-attachments/assets/14bea85d-1984-4b47-b42e-eb089fa2f3f2)
 
-My name is Nicklas, and I was born in 2010. I am a modern web developer, primarily backend.
-I currently hold the rank of Junior Developer in Backend development using Python FastAPI.
-My main languages are Python (for backend, FastAPI or Django) and JavaScript (TypeScript for websites).
-I am currently studying and working in Germany. 
+I'm a passionate coder born in 2010, focusing on modern web development with an emphasis on backend technologies.
 
-FastAPI TryHard✌️
+## About Me
+- **Role**: Junior Backend Developer specializing in Python with FastAPI.
+- **Main Languages**:
+  - Python (Backend: FastAPI or Django)
+  - JavaScript/TypeScript (Frontend for websites)
+- **Location**: Currently studying and working in Germany.
+
+FastAPI enthusiast ✌️ Let's build something awesome!
 
 
 
