@@ -6,8 +6,8 @@ I'm a passionate coder born in 2010, focusing on modern web development with an 
 ## About Me
 - **Role**: Junior Backend Developer specializing in Python with FastAPI.
 - **Main Languages**:
-  - Python (Backend: FastAPI or Django)
-  - JavaScript/TypeScript (Frontend for websites)
+  - Python (Backend: FastAPI)
+  - Go
 - **Location**: Currently studying and working in Germany.
 
 FastAPI enthusiast ✌️ Let's build something awesome!
