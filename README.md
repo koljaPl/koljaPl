@@ -1,17 +1,13 @@
 # 👋 Hello, I'm Niklas!
 <img width="960" height="540" alt="image(2)" src="https://github.com/user-attachments/assets/fdbabeae-c3b7-46d1-a5ef-73cdd01bab6a" />
 
-I'm a passionate coder born in 2010, focusing on modern web development with an emphasis on backend technologies.
+I'm a passionate coder born in 2010, focusing on modern web development with an emphasis on Backend/DevOps technologies.
 
 ## About Me
-- **Role**: Junior Backend Developer specializing in Python with FastAPI.
+- **Role**: Junior Backend/DevOps Developer specializing in Golang.
 - **Main Languages**:
+  - Go (Gin, net/http, Chi)
   - Python (Backend: FastAPI)
-  - Go
 - **Location**: Currently studying and working in Germany.
 
-FastAPI enthusiast ✌️ Let's build something awesome!
-
-
-
-
+Go enthusiast ✌️ Let's build something awesome! (and Blazingly fast)
