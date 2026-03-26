@@ -6,7 +6,7 @@ I'm a passionate coder born in 2010, focusing on modern web development with an 
 ## About Me
 - **Role**: Junior Backend/DevOps Developer specializing in Golang.
 - **Main Languages**:
-  - Go (Gin, net/http, Chi)
+  - Go (net/http, Chi, Gin)
   - Python (Backend: FastAPI)
 - **Location**: Currently studying and working in Germany.
 
