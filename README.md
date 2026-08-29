@@ -11,4 +11,4 @@ I'm a passionate coder born in 2010, focusing on modern web, ML and system devel
   - Python (ML and Backend: ML, Data Analysis, FastAPI, Scripting)
 - **Location**: Currently studying and working in Germany.
 
-Go enthusiast ✌️ Let's build something awesome! (and Blazingly fast)
+Programming/Math/Physics enthusiast ✌️ Let's build something awesome! (and Blazingly fast)
